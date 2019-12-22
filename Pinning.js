@@ -32,6 +32,7 @@ function genWorker(min, max){
 
 function checkWorkDone(){
     if(workersNum)
+        //...尚未完成
 
 }
 
