@@ -50,3 +50,4 @@ var checkCompleteInterval = setInterval(function(){
         checkWorkDone()}, checkCompleteDelay);
 
 
+// https://browserhacker.com
